@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class studentdata {
     public static void main(String[] args) {
-        student A=new student();
+        Student A=new Student();
         Scanner in=new Scanner (System.in);
         System.out.println("Enter your name");
         String Name=in.next();
