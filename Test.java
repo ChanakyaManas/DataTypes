@@ -35,3 +35,10 @@ public class Test{
 
     }
 }
+public class Student{
+    int id;
+    String name;
+    long mobilenum;
+    double cgpa;
+    boolean gender;
+}
